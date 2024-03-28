@@ -1,0 +1,11 @@
+prefix=/opt/homebrew/Cellar/opencolorio/2.3.2
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenColorIO
+Version: 2.3.2
+Description: OpenColorIO (OCIO) is a complete color management solution
+URL: https://github.com/AcademySoftwareFoundation/OpenColorIO
+Libs: -L${libdir} -lOpenColorIO
+Cflags: -I${includedir}

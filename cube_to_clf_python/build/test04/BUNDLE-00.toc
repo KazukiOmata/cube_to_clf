@@ -1,0 +1,3 @@
+([('test04',
+   '/Users/omakazu/program/01_multi_project/003_make_CLF/cube_to_clf/cube_to_clf_python/dist/test04',
+   'EXECUTABLE')],)
